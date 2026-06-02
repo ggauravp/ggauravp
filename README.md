@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering graduate with strong interest in Python, Data Engineering, and Backend Development. I have built projects using Django, Django REST Framework (DRF) and Scrapy. I enjoy developing scalable backend applications and APIs and i also have a foundational understanding of Data Engineering technologies like AWS, Terraform, CI/CD pipelines, Apache Airflow, Databricks and PySpark, and i am continuously expanding my skills in these areas.
-
+I am a Computer Engineering graduate with strong interest in Python, Data Engineering, and Backend Development. I have built projects using Django, Django REST Framework (DRF) and Scrapy. I enjoy developing scalable backend applications and APIs and i also have a foundational understanding of Data Engineering technologies like AWS, Terraform, CI/CD pipelines, Apache Airflow, Databricks and PySpark, and i am continuously learning and growiing my skills in these areas.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravpant-gp/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravpant870@gmail.com) 
